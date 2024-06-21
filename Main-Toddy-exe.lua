@@ -1,14 +1,14 @@
 if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635 then
     game.StarterGui:SetCore("SendNotification", {
-      Icon = "rbxassetid://17527279121";
+      Icon = "";
           Title = "Toddy.exe Scripted", 
-      Text = "Bem vindo ao meu hub,criado pelo Styx ❤"
+      Text = "Bem vindo ao meu hub."
   })
   
   wait(1)
   
   game.StarterGui:SetCore("SendNotification", {
-      Icon = "rbxassetid://17527279121";
+      Icon = "";
       Title = "The Toddy   ", 
       Text = "☀ - Carregando Script! Aguarde..."
   })
